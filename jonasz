@@ -1,0 +1,14 @@
+1.2.5. Temperaturen ☆☆
+Gesucht ist ein Programm, das für alle Tage im Jahr die Temperatur speichert.
+
+Belege die Tage im Jahr mit einer Zufallstemperatur, wobei diese im besten Fall dem Temperaturverlauf des Jahres folgt. Das ist eine Glockenkurve, die im Juli die höchste Temperatur zeigt und im Januar den tiefste (https://de.wikipedia.org/wiki/Datei:Temperaturverlauf_in_Deutschland.png).
+
+Schreibe eine Tabelle mit den Temperaturen auf die Konsole.
+
+Gib die höchste und niedrigste Temperatur in jedem Monat aus.
+
+Gib die höchste und niedrigste Jahrestemperatur aus.
+
+Gib die Durchschnittstemperatur für jeden Monat aus.
+
+Gib die Woche aus, in der es den größten Temperaturunterschied gibt (nach oben oder unten).
