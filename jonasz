@@ -12,3 +12,14 @@ Gib die höchste und niedrigste Jahrestemperatur aus.
 Gib die Durchschnittstemperatur für jeden Monat aus.
 
 Gib die Woche aus, in der es den größten Temperaturunterschied gibt (nach oben oder unten).
+
+
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+
+Random rnd = new Random();
+int month  = rnd.Next(1, 13);  // creates a number between 1 and 12
+int dice   = rnd.Next(1, 7);   // creates a number between 1 and 6
+int card   = rnd.Next(52);     // creates a number between 0 and 51
+
+https://docs.microsoft.com/en-us/dotnet/api/system.math.min?view=netframework-4.8
+
